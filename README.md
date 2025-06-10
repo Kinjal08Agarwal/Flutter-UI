@@ -6,4 +6,4 @@ A list of 3 hardcoded tasks
 <br>
 Checkbox icons for marking tasks complete
 <br>
-Use a clean and consistent layout
+A clean and consistent layout
